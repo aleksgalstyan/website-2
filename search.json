@@ -2,9 +2,16 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "about",
     "section": "",
-    "text": "About this site"
+    "text": "My name is Aleks Galstyan.Bye\nhttps://bootcamp.davidkane.info"
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "about",
+    "section": "",
+    "text": "My name is Aleks Galstyan.Bye\nhttps://bootcamp.davidkane.info"
   },
   {
     "objectID": "index.html",
