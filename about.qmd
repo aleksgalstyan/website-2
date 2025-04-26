@@ -1,5 +1,10 @@
 ---
-title: "About"
+title: "about"
+editor: visual
 ---
 
-About this site
+## About Me
+
+My name is *Aleks Galstyan*.Bye
+
+https://bootcamp.davidkane.info

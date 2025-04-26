@@ -11,6 +11,8 @@ library(tidyverse)
 
 #| label: setup
 ```
+
+
 ```{r}
 diamonds |> 
   filter(z != 0) |> 
